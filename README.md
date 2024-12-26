@@ -1,4 +1,3 @@
-# Gaussian-Mixture-matrix-teaching-material
 # Gaussian Mixture Models (GMM): Teaching Materials
 
 Welcome to this repository, a comprehensive resource for learning and teaching Gaussian Mixture Models (GMM). This material was specifically created as part of my teaching material for a Machine Learning course. This material is curated to benefit **students**, **professors**, and anyone seeking to understand GMM for educational purposes.
